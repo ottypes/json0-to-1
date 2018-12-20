@@ -1,6 +1,6 @@
 {
   "name": "ot-json0-to-1",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert ot-json0 operations to ot-json1 operations",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,9 @@
     "ot",
     "json0"
   ],
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "author": "Joseph Gentle <me@josephg.com>",
   "license": "ISC"
 }
