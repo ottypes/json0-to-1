@@ -1,0 +1,19 @@
+{
+  "name": "ot-json0-to-1",
+  "version": "0.1.0",
+  "description": "Convert ot-json0 operations to ot-json1 operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephg/json0-to-1.git"
+  },
+  "keywords": [
+    "ot",
+    "json0"
+  ],
+  "author": "Joseph Gentle <me@josephg.com>",
+  "license": "ISC"
+}
